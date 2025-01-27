@@ -1,0 +1,3 @@
+First run the feature extraction code that will save train, validation, and test csv files.
+Secondly, run train code to train the regression model on the extracted features.
+Third, run the test code to verify the performance of test features.
