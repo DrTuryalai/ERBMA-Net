@@ -10,8 +10,7 @@ AVEC2014: MAE = 6.80, RMSE = 8.18
 CZ2024: MAE = 6.37, RMSE = 8.08
 
 # Repository Overview
-scripts/: Contains training, testing, and feature extraction scripts.
-models/: Pre-trained model weights for reproducibility.
+Contains training, testing, and feature extraction scripts.
 requirements.txt: Dependencies for setting up the environment.
 
 # Getting Started
@@ -20,6 +19,6 @@ Follow the instructions in the README to set up the environment, prepare dataset
 # Citing This Work
 If you find this repository useful, please consider citing our paper:
 
-ERBMA-Net: Enhanced Random Binary Multilevel Attention Network for Facial Depression Recognition
-Muhammad Turyalai Khan et al., 2025
+ERBMA-Net: Enhanced Random Binary Multilevel Attention Network for Facial Depression Recognition,
+Muhammad Turyalai Khan et al., 2025,
 International Journal of Computer Vision
