@@ -19,5 +19,6 @@ Follow the instructions in the README to set up the environment, prepare dataset
 # Citing This Work
 If you find this repository useful, please consider citing our paper:
 
-ERBMA-Net: Enhanced Random Binary Multilevel Attention Network for Facial Depression Recognition,
-Muhammad Turyalai Khan et al., 2025,
+M. T. Khan, Y. Cao, F. Shafait, and W. Jun "ERBMA-Net: Enhanced Random
+Binary Multilevel Attention Network for Facial Depression Recognition.” _IEEE Transactions on
+Computational Social Systems, 2025. DOI: https://doi.org/10.1109/TCSS.2025.3596047
