@@ -21,4 +21,4 @@ If you find this repository useful, please consider citing our paper:
 
 M. T. Khan, Y. Cao, F. Shafait, and W. Jun "ERBMA-Net: Enhanced Random
 Binary Multilevel Attention Network for Facial Depression Recognition.” IEEE Transactions on
-Computational Social Systems, 2025. DOI: https://doi.org/10.1109/TCSS.2025.3596047
+Computational Social Systems, 13(1), 409-427, 2026. DOI: https://doi.org/10.1109/TCSS.2025.3596047
