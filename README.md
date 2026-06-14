@@ -1,9 +1,9 @@
 # ERBMA-Net: Enhanced Random Binary Multilevel Attention Network for facial depression recognition
 This repository contains the implementation of Enhanced Random Binary Multilevel Attention Network (ERBMA-Net), a novel framework for facial depression recognition. ERBMA-Net addresses key limitations in existing methods by introducing random binary convolutional filters for enhanced adaptability and multilevel attention mechanisms to effectively capture both local and global patterns in facial expressions.
 
-Steps to use the code: First run the feature extraction code that will save train, validation, and test csv files. Secondly, run train code to train the regression model on the extracted features. Third, run the test code to verify the performance on test data (test.csv file).
+Steps to use the code: First, run the feature extraction code that will save train, validation, and test csv files. Secondly, run the train code to train the regression model on the extracted features. Third, run the test code to verify the performance on test data (test.csv file).
 
-Preprocessing steps: OpenCV for frame extraction at seconds interval. MTCNN for facial key points detection (face, eyes, mouth) Selective cropping of face (224x224), eyes (96x192), and mouth (96x128).
+Preprocessing steps: OpenCV for frame extraction at five seconds interval. MTCNN for facial key points detection (face, eyes, mouth). Selective cropping of face (224x224), eyes (96x192), and mouth (96x128).
 
 <img width="1066" height="531" alt="image" src="https://github.com/user-attachments/assets/9c7e4e14-5aea-4f36-be69-9c07ffc8dc6c" />
 
